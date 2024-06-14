@@ -1,0 +1,105 @@
+Cronograma para Aprender Java e seu Ecossistema
+Objetivo: Dominar a linguagem Java e seus principais frameworks, possibilitando a criação de aplicações web robustas e escaláveis.
+
+Público-alvo: Iniciantes com pouca ou nenhuma experiência anterior em programação.
+
+Tempo total: 240 horas (distribuídas ao longo de 4 meses, com dedicação de 20 horas semanais).
+
+Recursos:
+
+Computador com acesso à internet
+Ambiente de desenvolvimento Java (recomenda-se o IntelliJ IDEA)
+Livros e tutoriais online (sugestões abaixo)
+Comunidades online de suporte (fóruns, grupos do Facebook, etc.)
+Cronograma:
+
+Mês 1: Fundamentos de Java (40 horas)
+
+Semana 1:
+Instalação do Java e do ambiente de desenvolvimento
+Sintaxe básica da linguagem: variáveis, tipos de dados, operadores
+Estruturas de controle: if, else, switch, for, while
+Semana 2:
+Classes e objetos: encapsulamento, herança, polimorfismo
+Interfaces e abstração
+Exceções e tratamento de erros
+Semana 3:
+Coleções Java: ArrayList, HashMap, HashSet, etc.
+I/O de arquivos
+Multithreading
+Semana 4:
+Revisão dos conceitos básicos
+Desenvolvimento de pequenos programas para consolidação do aprendizado
+Mês 2: Programação Orientada a Objetos com Java (40 horas)
+
+Semana 5:
+Princípios da POO: SOLID
+Design patterns: Singleton, Factory, Observer, etc.
+UML (Unified Modeling Language)
+Semana 6:
+Desenvolvimento de aplicações Java OO
+Testes unitários com JUnit
+Semana 7:
+Integração com bancos de dados: JDBC
+Repositórios de dados e ORM (Object-Relational Mapping)
+Semana 8:
+Revisão dos conceitos de POO
+Desenvolvimento de um projeto completo em Java OO
+Mês 3: Introdução ao Ecossistema Java (80 horas)
+
+Semana 9:
+Java EE (Enterprise Edition): Servlets, JSP, JSF
+Desenvolvimento de aplicações web Java EE
+Semana 10:
+Spring Framework: Core, MVC, Web
+Desenvolvimento de APIs REST com Spring
+Semana 11:
+Hibernate: ORM para Java
+JPA (Java Persistence API)
+Semana 12:
+Frameworks para testes de integração: Spring Boot Test, Selenium
+Ferramentas de deployment: Maven, Gradle
+Semana 13:
+Revisão dos principais frameworks do ecossistema Java
+Desenvolvimento de um projeto web completo utilizando Spring e Hibernate
+Mês 4: Aprimoramento e Especialização (80 horas)
+
+Semana 14:
+Cloud computing: AWS, Azure, GCP
+Desenvolvimento de aplicações em nuvem com Java
+Semana 15:
+Microservices e arquitetura distribuída
+Docker e Kubernetes para containerização
+Semana 16:
+Segurança em aplicações Java
+Testes de segurança e boas práticas
+Semana 17:
+Tópicos avançados em Java: Java 8, Streams, Lambdas
+Novas tecnologias e tendências do ecossistema Java
+Semana 18:
+Revisão geral dos conceitos aprendidos
+Preparação para certificações Java (opcional)
+Elaboração de um portfólio de projetos
+Dicas para o sucesso:
+
+Seja consistente: Dedique pelo menos 2 horas por dia aos estudos.
+Pratique bastante: Codifique todos os exemplos e exercícios dos tutoriais.
+Tire dúvidas: Utilize os fóruns e comunidades online para obter ajuda quando necessário.
+Participe de projetos: Colabore em projetos open-source ou desenvolva seus próprios projetos para aplicar o que você aprendeu.
+Mantenha-se atualizado: Acompanhe as novidades do mundo Java e participe de eventos da comunidade.
+Recursos Adicionais:
+
+Livros:
+"Java: Como Programar" - Deitel & Deitel
+"Head First Java" - Kathy Sierra & Bert Bates
+"Spring in Action" - Craig Walls
+Tutoriais online:
+
+
+
+tune
+
+share
+
+
+more_vert
